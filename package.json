@@ -39,7 +39,7 @@
     "chartjs-chart-financial": "^0.1.1",
     "chartjs-plugin-annotation": "^2.0.1",
     "chartjs-plugin-datalabels": "^2.1.0",
-    "core-js": "^3.23.5",
+    "core-js": "^3.27.2",
     "date-fns": "^2.25.0",
     "highlight.js": "^11.6.0",
     "lodash-es": "^4.17.21",
