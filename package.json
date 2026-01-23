@@ -42,7 +42,7 @@
     "core-js": "^3.23.5",
     "date-fns": "^2.25.0",
     "highlight.js": "^11.6.0",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "ngx-highlightjs": "^7.0.0",
     "ngx-markdown": "^14.0.1",
     "prismjs": "^1.29.0",
